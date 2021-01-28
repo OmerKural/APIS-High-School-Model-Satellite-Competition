@@ -6,7 +6,7 @@ Coded in Python by Ömer Kural
 - [The Aim of Our Program](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#the-aim-of-our-program)
 - [What Our Program Does](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#what-our-program-does)
 - [Technologies](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#technologies)
-- [Credit](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#creedit)
+- [Credit](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#credit)
 
 ## Concept of APIS Model Satellite Competition
 The competition is the Turkish version of CanSat, which is held in USA. Unlike real satellites, model satellites are elevated to a low altitude (250 meters in this case) by a drone or a rocket. Their sizes and weights are smaller than a real satellite. There are some mechanical and electronical expectations in the design of the model satellite. The mechanical expectations are the carrier and the payloads (chicken eggs in this case) protection with a passive or active landing system. And of course the dimensions and weight values of the model sattelite must be kept within specified limits. The electronical expectations are air pressure, measurement of various data such as air temperature, altitude, photo and video recording, processing of the received data with the help of a microprocessor. These data must be sent to the ground station regularly. The data, received by the ground station, must be visualised live.
