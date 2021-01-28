@@ -2,7 +2,7 @@
 Coded in Python by Ömer Kural
 
 ## Table of Contents
-- [Concept of Competition](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#concept-of-competition)
+- [Concept of Competition](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#concept-of-apis-model-satellite-competition)
 - [The Aim of Our Program](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#the-aim-of-our-program)
 - [What Our Program Does](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#what-our-program-does)
 - [Technologies](https://github.com/omerkural/APIS-High-School-Model-Satellite-Competition#technologies)
