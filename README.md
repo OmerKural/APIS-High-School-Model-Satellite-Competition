@@ -25,5 +25,4 @@ Our model satellite gathers the data by a microchip (ESP8266), then it sends it 
 
 ## Credit
 - Code by Ömer Kural
-- Model satellite's mechanical and electronical parts by Ömer Kural and Aziz Sencer Arabacı
 - Logo by Aziz Sencer Arabacı
